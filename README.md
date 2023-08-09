@@ -117,6 +117,8 @@ Full-stack engineer and product designer with a passion for building things that
 
 ## Tools I Love
 
+- **Languages** Python, Javascript, Typescript, Rust, C#, C++, C
+
 - **Workflow** Hack.md, Dework, Discord, Figma, WakaTime
 
 - **AI** Stable Diffusion, Midjourney, AnimateDiff, Copilot, ChatGPT, LocalAI (drop-in OpenAI replacement)
