@@ -24,7 +24,24 @@ Full-stack engineer and product designer with a passion for building things that
 - Founder, XRFoundation - https://xrfoundation.io/
 - Creative Technology, Bravo Media - https://www.bravomedia.com/
 
-## Projects
+## Software Projects
+
+### TinyAGI
+Lightweight autonomous agent - https://github.com/AutonomousResearchGroup/tinyagi
+
+### Autocoder
+Self-coding AI agent - https://github.com/AutonomousResearchGroup/autocoder
+
+### Webaverse Character Creator
+Open source web-based interoperable avatar creator - https://studio.webaverse.ai/ and https://github.com/webaverse-studios/charactercreator
+
+### Magick
+Open source visual node editor for AI applications and autonomous agents - https://github.com/oneirocom/magick
+
+### XREngine
+Open source multiplayer spatial web engine - https://github.com/XRFoundation/xrengine
+
+## Creative Projects
 
 ### Crystal Castles "Fleece"
 - All technical work for the music video "Fleece" by Crystal Castles
@@ -32,39 +49,46 @@ https://www.youtube.com/watch?v=pZ2zfWoZ_18
 
 ### Marina Abramovic "The Life"
 - Built experience on Magic Leap and Hololens 2 as CTO of Tin Drum
-https://www.christies.com/features/Marina-Abramovic-The-Life-10193-3.aspx
+- https://www.christies.com/features/Marina-Abramovic-The-Life-10193-3.aspx
 
 ### Justin Timberlake x American Express "Outside In"
 - Built augmented reality systems for the Justin Timberlake x American Express "Outside In" experience for Radical Media
-https://www.billboard.com/music/pop/justin-timberlake-ar-experience-outside-in-american-express-man-of-the-woods-8292026/
+- https://www.billboard.com/music/pop/justin-timberlake-ar-experience-outside-in-american-express-man-of-the-woods-8292026/
 
 ### Santander Bank "In Someone Else's Shoes"
 - Augmented Reality experience for Santander Bank campaign, with Arnold Worldwide and Bravo Media
-https://www.adweek.com/creativity/santanders-powerful-ar-experience-shows-the-misunderstood-realities-of-homelessness/
+- https://www.adweek.com/creativity/santanders-powerful-ar-experience-shows-the-misunderstood-realities-of-homelessness/
 
 ### Zero Days VR
 - Worked on animation and camera systems for the Oculus VR experience "Zero Days VR" for Scatter
-https://www.scatter.nyc/productions/zero-days-vr
+- https://www.scatter.nyc/productions/zero-days-vr
+
+## Hackathon Wins
+Winner, First Place, AT&T Magic Leap Shape Hackathon SF
+https://magic-leap.reality.news/news/at-t-reveals-winners-first-magic-leap-hackathon-0189915/
+
+Winner, First Place, WearHacks NYC
+https://wearhacks-nyc.devpost.com/
+
+Winner, Second Place, Sony Music Rock & Code
+https://sonymusicrockcode.devpost.com/
+
+Winner, Third Place, AT&T Shape Hackathon LA
+https://attshapehackathon.devpost.com/
 
 ## Tools I Love
 
-#### Organization
-Hack.md, Dework, Discord, Figma, WakaTime
+- **Workflow** Hack.md, Dework, Discord, Figma, WakaTime
 
-#### AI
-Stable Diffusion, Midjourney, AnimateDiff, Copilot, ChatGPT, LocalAI (drop-in OpenAI replacement)
+- **AI** Stable Diffusion, Midjourney, AnimateDiff, Copilot, ChatGPT, LocalAI (drop-in OpenAI replacement)
 
-#### Game Engines
-Unity, Unreal, Three.js, React Three Fiber, A-frame
+- **Game Engines** Unity, Unreal, Three.js, React Three Fiber, A-frame
 
-#### 3D
-Blender, Substance Painter
+- **3D** Blender, Substance Painter
 
-#### 2D
-Photoshop, Figma, After Effects, Premiere, Nuke
+- **2D** Photoshop, Figma, After Effects, Premiere, Nuke
 
-#### Audio
-Pro Tools, Logic, Ableton
+- **DAW** Pro Tools, Logic, Ableton
 
 ## Formal Education
 I have a useless degree in Sound Arts from a school that no longer exists. I mostly learned everything I know from the internet.
