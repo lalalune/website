@@ -11,10 +11,10 @@ Full-stack engineer and product designer with a passion for building things that
 
 ## Contact
 
-Github: https://github.com/lalalune
-Discord: new.moon
-Twitter: @spatialweeb
-Email: autonomousresearcher@gmail.com
+- Github: https://github.com/lalalune
+- Discord: new.moon
+- Twitter: @spatialweeb
+- Email: autonomousresearcher@gmail.com
 
 ## Career Highlights
 
