@@ -5,10 +5,8 @@ Full-stack engineer and product designer with a passion for building things that
 
 ## What Am I Doing Now?
 
-- Trying to figure out how to make autonomous agents useful
-- Working with the Internet Archive to map the AI existential risk debate
-- Quantum Music?
-- A little bit of mentoring
+- R&D for autonomous, self-learning agents
+- Contracted by the Internet Archive to graph the AI existential risk debate
 - Lots and lots of programming
 
 ## Contact
