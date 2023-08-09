@@ -1,5 +1,5 @@
 # Moon
-
+<img src="moon.jpg" width="100%" />
 Full-stack engineer and product designer with a passion for building things that make a difference.
 
 ## What Am I Doing Now?
