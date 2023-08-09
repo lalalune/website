@@ -3,14 +3,6 @@
 <img src="moon.jpg" width="100%" />
 Full-stack engineer, entrepreneur and product designer with a passion for building things that make a difference.
 
-## What Am I Doing Now?
-
-- Trying to figure out how to make autonomous agents useful
-- Working with the Internet Archive to map the AI existential risk debate
-- Quantum Music?
-- A little bit of mentoring
-- Lots and lots of programming
-
 ## Contact
 
 - Github: https://github.com/lalalune
