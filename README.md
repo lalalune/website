@@ -92,3 +92,9 @@ https://attshapehackathon.devpost.com/
 
 ## Formal Education
 I have a useless degree in Sound Arts from a school that no longer exists. I mostly learned everything I know from the internet.
+
+## Groups I Support
+
+- **M3** https://m3org.com/
+- **Open Metaverse Interoperability Group** https://omigroup.org/
+- **Effective Acceleration** https://www.effectiveacceleration.org/
