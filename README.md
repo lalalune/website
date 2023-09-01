@@ -8,7 +8,7 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 - Github: https://github.com/lalalune
 - Discord: new.moon
 - Twitter: @spatialweeb
-- Email: autonomousresearcher@gmail.com
+- Email: autonomousresearcher@gmail.com and moon@upstreet.ai
 
 ## Career Highlights
 - CEO, Upstreet Labs - https://upstreet.ai/
