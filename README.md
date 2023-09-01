@@ -11,7 +11,7 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 - Email: autonomousresearcher@gmail.com
 
 ## Career Highlights
-
+- CEO, Upstreet Labs - https://upstreet.ai/
 - Wizard, Autonomous Research Group - https://autonomousresearch.group/
 - CTO, MagickML - https://magickml.com/
 - CTO, Tin Drum - https://tindrum.io/
