@@ -8,9 +8,10 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 - Github: https://github.com/lalalune
 - Discord: new.moon
 - Twitter: @spatialweeb
-- Email: autonomousresearcher@gmail.com and moon@upstreet.ai
+- Email: autonomousresearcher@gmail.com and moon@cojourney.app
 
 ## Career Highlights
+- CEO, Clio Dynamics - https://cojourney.app/
 - CEO, Upstreet Labs - https://upstreet.ai/
 - Wizard, Autonomous Research Group - https://autonomousresearch.group/
 - CTO, MagickML - https://magickml.com/
