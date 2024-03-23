@@ -11,31 +11,42 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 - Email: autonomousresearcher@gmail.com and moon@cojourney.app
 
 ## Career Highlights
-- CEO, Clio Dynamics - https://cojourney.app/
-- CEO, Upstreet Labs - https://upstreet.ai/
-- Wizard, Autonomous Research Group - https://autonomousresearch.group/
+
+- (current) CEO, Cojourney / Clio Dynamics - https://cojourney.app/
+- (current) Founder, The Alliance - https://github.com/jointhealliance
+- CEO, Upstreet Corporation - https://upstreet.ai/
 - CTO, MagickML - https://magickml.com/
 - CTO, Tin Drum - https://tindrum.io/
 - Founder, XRFoundation - https://xrfoundation.io/
-- Creative Technology, Bravo Media - https://www.bravomedia.com/
+- Creative Technologist, Bravo Media - https://www.bravomedia.com/
 
 ## Software Projects
+
+### bgent
+
+- A capable, production-grade agent, built in Typescript
+- https://bgent.org
+
+### AgentMemory
+
+- Simple, scalable RAG in one line of python
+- https://github.com/JoinTheAlliance/agentmemory
 
 ### TinyAGI
 
 - Lightweight autonomous agent
-- https://github.com/AutonomousResearchGroup/tinyagi
+- https://github.com/JoinTheAlliance/tinyagi
 
 ### Autocoder
 
 - Self-coding AI agent
-- https://github.com/AutonomousResearchGroup/autocoder
+- https://github.com/JoinTheAlliance/autocoder
 
 ### Webaverse Character Creator
 
 - Open source web-based interoperable avatar creator
-- https://studio.webaverse.ai/
 - source: https://github.com/webaverse-studios/charactercreator
+- latest version, maintained by m3: https://github.com/m3-org/charactercreator
 
 ### Magick
 
