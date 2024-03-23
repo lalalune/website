@@ -150,3 +150,5 @@ Emeryville, CA
 ## There Is Work To Be Done
 
 If you want to work with me, please reach out. I'm always looking for new opportunities to collaborate with interesting people on interesting projects.
+
+I am motivated by meaningful work. If it has the capacity to help a lot of people, I'm probably interested.
