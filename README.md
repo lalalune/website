@@ -42,7 +42,7 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 - Self-coding AI agent
 - https://github.com/JoinTheAlliance/autocoder
 
-### Webaverse Character Creator
+### Webaverse / M3 Character Creator
 
 - Open source web-based interoperable avatar creator
 - source: https://github.com/webaverse-studios/charactercreator
@@ -93,7 +93,7 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 - Drummer and engineer
 - http://www.fruitxflowers.com/
 
-### Space guest
+### Space Guest
 - Drummer and engineer
 - https://spaceguest.bandcamp.com/
 
@@ -123,7 +123,9 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 
 - **Workflow** Hack.md, Dework, Discord, Figma, WakaTime
 
-- **AI** Stable Diffusion, Midjourney, AnimateDiff, Copilot, ChatGPT, LocalAI (drop-in OpenAI replacement)
+- **IDE** VSCode
+
+- **AI** Stable Diffusion, Midjourney, AnimateDiff, Github Copilot, ChatGPT, LocalAI, Claude
 
 - **Game Engines** Unity, Unreal, Three.js, React Three Fiber, A-frame
 
