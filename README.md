@@ -143,7 +143,7 @@ Emeryville, CA
 
 - **M3** https://m3org.com/
 - **Open Metaverse Interoperability Group** https://omigroup.org/
-- **Effective Acceleration** https://www.effectiveacceleration.org/
+- **Effective Accelerationism** https://www.effectiveacceleration.org/
 - **The Alliance** https://github.com/jointhealliance/start-here
 
 ## There Is Work To Be Done
