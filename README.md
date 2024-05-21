@@ -12,8 +12,8 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 
 ## Career Highlights
 
-- (current) CEO, Cojourney / Clio Dynamics - https://cojourney.app/
-- (current) Founder, The Alliance - https://github.com/jointhealliance
+- (current) Research Engineer, Deep AI https://deep.ai
+- (current) Maintainer, The Alliance - https://github.com/jointhealliance
 - CEO, Upstreet Corporation - https://upstreet.ai/
 - CTO, MagickML - https://magickml.com/
 - CTO, Tin Drum - https://tindrum.io/
@@ -42,11 +42,10 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 - Self-coding AI agent
 - https://github.com/JoinTheAlliance/autocoder
 
-### Webaverse / M3 Character Creator
+### M3 Character Studio
 
 - Open source web-based interoperable avatar creator
-- source: https://github.com/webaverse-studios/charactercreator
-- latest version, maintained by m3: https://github.com/m3-org/charactercreator
+- https://github.com/M3-org/CharacterStudio
 
 ### Magick
 
