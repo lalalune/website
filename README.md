@@ -148,4 +148,4 @@ Emeryville, CA
 
 ## There Is Work To Be Done
 
-If you want to work with me in some capacity, please reach out. I am particularly motivated by projects that use technology in new and interesting ways to do good for a lot of people. If you're looking for meaningful work to put your time into, check out: https://github.com/jointhealliance
+If you want to work with me in some capacity, please reach out. I am particularly motivated by projects that use technology in new and interesting ways to do good for a lot of people.
