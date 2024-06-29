@@ -8,12 +8,10 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 - Github: https://github.com/lalalune
 - Discord: new.moon
 - Twitter: @spatialweeb
-- Email: autonomousresearcher@gmail.com and moon@cojourney.app
+- Email: autonomousresearcher@gmail.com
 
 ## Career Highlights
 
-- (current) Research Engineer, Deep AI https://deep.ai
-- (current) Maintainer, The Alliance - https://github.com/jointhealliance
 - CEO, Upstreet Corporation - https://upstreet.ai/
 - CTO, MagickML - https://magickml.com/
 - CTO, Tin Drum - https://tindrum.io/
@@ -21,6 +19,11 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 - Creative Technologist, Bravo Media - https://www.bravomedia.com/
 
 ## Software Projects
+
+### Simian / Simverse
+
+- Synthetic video data with perfect captions
+- https://github.com/RaccoonResearch/Simian
 
 ### bgent
 
