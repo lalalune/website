@@ -1,4 +1,4 @@
-# Moon
+# Shaw
 
 <img src="moon.jpg" width="100%" />
 Full-stack engineer, entrepreneur and product designer with a passion for building things that make a difference.
@@ -12,6 +12,7 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 
 ## Career Highlights
 
+- Founder, ai16z and Eliza Systems - https://eliza.systems
 - CEO, Upstreet Corporation - https://upstreet.ai/
 - CTO, MagickML - https://magickml.com/
 - CTO, Tin Drum - https://tindrum.io/
