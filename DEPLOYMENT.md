@@ -15,7 +15,11 @@ npm run deploy
 ```
 
 The Worker is named `shawmakesmagic` in the personal Cloudflare account:
-https://shawmakesmagic.shawmakesmagic.workers.dev/
+https://shawmakesmagic.com/
+
+Both `shawmakesmagic.com` and `www.shawmakesmagic.com` are connected as
+production custom domains. The fallback URL is
+https://shawmakesmagic.shawmakesmagic.workers.dev/.
 
 Authenticate Wrangler with the personal account before CLI deployment. The
 account ID is pinned in `wrangler.jsonc` to prevent publishing to another account.
@@ -25,5 +29,5 @@ connect `lalalune/website`, branch `main`, with build command `npm run build`
 and deploy command `npx wrangler deploy`.
 
 The existing `CNAME` is retained for the previous GitHub Pages site.
-The new `shawmakesmagic.com` domain must be registered and connected as a
-Worker custom domain before it can serve this deployment.
+The `shawmakesmagic.com` registration and custom-domain routing are managed
+in the personal Cloudflare account.

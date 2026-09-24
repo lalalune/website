@@ -4,6 +4,10 @@
   "account_id": "50ad2052bbc6ca528d6993a689b419a4",
   "compatibility_date": "2026-09-24",
   "workers_dev": true,
+  "routes": [
+    { "pattern": "shawmakesmagic.com", "custom_domain": true },
+    { "pattern": "www.shawmakesmagic.com", "custom_domain": true }
+  ],
   "assets": {
     "directory": "./dist"
   }
