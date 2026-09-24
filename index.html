@@ -4,7 +4,8 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Moon</title>
+        <title>Shaw Makes Magic</title>
+        <meta name="description" content="Shaw — full-stack engineer, entrepreneur and product designer. Software, creative projects, and contact information.">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/3.0.8/marked.min.js"></script>
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -28,13 +29,17 @@
     <div id="content"></div>
     <script>
         fetch('README.md')
-            .then(response => response.text())
+            .then(response => {
+                if (!response.ok) throw new Error('Unable to load site content');
+                return response.text();
+            })
             .then(text => {
                 const contentDiv = document.getElementById('content');
                 contentDiv.innerHTML = marked(text);
             })
             .catch(error => {
                 console.error("An error occurred while loading the Markdown file:", error);
+                document.getElementById('content').textContent = 'Unable to load this page. Please refresh to try again.';
             });
     </script>
 </body>

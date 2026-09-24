@@ -1,0 +1,14 @@
+{
+  "name": "shawmakesmagic-website",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "npm run build && wrangler dev",
+    "deploy": "npm run build && wrangler deploy",
+    "deploy:check": "npm run build && wrangler deploy --dry-run"
+  },
+  "devDependencies": {
+    "wrangler": "4.138.0"
+  }
+}

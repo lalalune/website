@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "shawmakesmagic",
+  "account_id": "50ad2052bbc6ca528d6993a689b419a4",
+  "compatibility_date": "2026-09-24",
+  "workers_dev": true,
+  "assets": {
+    "directory": "./dist"
+  }
+}
