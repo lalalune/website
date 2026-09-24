@@ -14,9 +14,15 @@ npm run deploy:check
 npm run deploy
 ```
 
-The Worker is named `shawmakesmagic` in the personal Cloudflare account.
-For Cloudflare Workers Builds, select `lalalune/website`, branch `main`,
-build command `npm run build`, and deploy command `npx wrangler deploy`.
+The Worker is named `shawmakesmagic` in the personal Cloudflare account:
+https://shawmakesmagic.shawmakesmagic.workers.dev/
+
+Authenticate Wrangler with the personal account before CLI deployment. The
+account ID is pinned in `wrangler.jsonc` to prevent publishing to another account.
+The initial deployment was uploaded through the Cloudflare dashboard. Automatic
+deployment from GitHub is not connected. To enable Cloudflare Workers Builds,
+connect `lalalune/website`, branch `main`, with build command `npm run build`
+and deploy command `npx wrangler deploy`.
 
 The existing `CNAME` is retained for the previous GitHub Pages site.
 The new `shawmakesmagic.com` domain must be registered and connected as a
