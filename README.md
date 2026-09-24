@@ -6,13 +6,13 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 ## Contact
 
 - Github: https://github.com/lalalune
-- Discord: new.moon
-- Twitter: @spatialweeb
-- Email: autonomousresearcher@gmail.com
+- Discord: shawmakesmagic
+- Twitter: @shawmakesmagic
+- Email: shawmakesmagic@gmail.com
 
 ## Career Highlights
 
-- Founder, ai16z and Eliza Systems - https://eliza.systems
+- Founder, ai16z and Eliza Labs - https://elizalabs.ai
 - CEO, Upstreet Corporation - https://upstreet.ai/
 - CTO, MagickML - https://magickml.com/
 - CTO, Tin Drum - https://tindrum.io/
@@ -20,6 +20,11 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 - Creative Technologist, Bravo Media - https://www.bravomedia.com/
 
 ## Software Projects
+
+### elizaOS
+
+- Social agent framework
+- https://github.com/elizaOS/eliza
 
 ### Simian / Simverse
 
